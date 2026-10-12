@@ -2,6 +2,8 @@
 
 Wij Geven Licht | 12 oktober 2026
 
+**Totaalscore: 3,7/10**
+
 ## Samenvatting
 
 De website maakt onvoldoende duidelijk voor wie Finesse werkt en waarom een klant juist deze partij moet kiezen. Tijdelijke content, niet-onderbouwde cijfers en onjuiste informatie over energielabels verzwakken het vertrouwen. De site is technisch bereikbaar, maar de aangetroffen inhoudelijke en technische gaten maken beperkte vindbaarheid op specifieke SEO- en GEO-vragen aannemelijk.
@@ -58,3 +60,6 @@ wijzijnfinesse.nl noemt 25+ verduurzaamde klanten en een waardering van 4,3/5, t
 De scan onderbouwt risico’s, geen gemeten verkeersverlies. Een algemene crawlblokkade is niet aangetroffen. Zonder zoekprestatiedata is niet vastgesteld hoeveel bezoekers of aanvragen Finesse misloopt.
 
 Bronnen: [website](https://finesseduurzaam.nl/), [diensten](https://finesseduurzaam.nl/diensten/), [RVO energielabel C kantoren](https://www.rvo.nl/onderwerpen/wetten-en-regels-gebouwen/energielabel-c-kantoren). Technische constateringen: live paginabronnen en browsercontrole van 12 oktober 2026.
+
+
+**Uitgebreid rapport op aanvraag.**

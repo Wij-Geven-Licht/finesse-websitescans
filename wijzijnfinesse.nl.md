@@ -2,6 +2,8 @@
 
 Wij Geven Licht | 12 oktober 2026
 
+**Totaalscore: 5,0/10**
+
 ## Samenvatting
 
 De website heeft een herkenbaar zakelijk verhaal en concrete klantcases. Het brede aanbod wordt echter onvoldoende vertaald naar specifieke klantvragen en de belangrijkste resultaatclaims missen een controleerbare onderbouwing. Technische hiaten op juist de casepagina’s versterken het vermoeden dat de site SEO- en GEO-kansen laat liggen.
@@ -59,3 +61,6 @@ finesseduurzaam.nl noemt 512+ klanten en een waardering van 4,8/5, tegenover 25+
 De website is bereikbaar en de hoofdinhoud staat in de HTML. De constateringen maken gemiste vindbaarheidskansen aannemelijk, maar bewijzen geen slechte actuele zoekposities of ontbrekende AI-vermeldingen. Dat vraagt om zoekprestatiedata.
 
 Bronnen: [website](https://www.wijzijnfinesse.nl/), [diensten](https://www.wijzijnfinesse.nl/diensten), [Demcon-case](https://www.wijzijnfinesse.nl/projecten/demcon-eedaudit), [vacatures](https://www.wijzijnfinesse.nl/vacatures). Technische constateringen: live paginabronnen en browsercontrole van 12 oktober 2026.
+
+
+**Uitgebreid rapport op aanvraag.**
